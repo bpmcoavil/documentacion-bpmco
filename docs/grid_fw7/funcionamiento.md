@@ -11,6 +11,8 @@ _**Author:** Cristian Camilo Cantillo_
 
 ## Grafico
 
+```ciclo de vida```
+
 ```
     ○
     │
@@ -67,6 +69,8 @@ _**Author:** Cristian Camilo Cantillo_
 ---
 
 ## Inicialización
+
+```configuración grid framework7```
 
 ### HTML
 
