@@ -253,7 +253,7 @@ var objGrids = {};
 objGrids['gPruebas'] = { 'grid': gPruebas, 'conf': gPruebasConf };
 objGrids['gInventario'] = { 'grid': gInventario, 'conf': gInventarioConf };
 ```
-
+jualin
 ---
 
 ## Ultima Actualización
