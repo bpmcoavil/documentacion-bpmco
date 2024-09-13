@@ -46,6 +46,19 @@ slug: /cliclo_de_vida_grid_framework7
     
 ```
 
+## Video Explicación
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/MUe_ngkd1Xc"
+  title="Explicación Grid Framework7"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
+
+
 ## Ultima Actualización
 
 <div class="ultima-actualizacion">

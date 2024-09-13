@@ -29,11 +29,11 @@ export default function Home() {
       <main>
         <dir id="home">
           <a
-            href="https://icasa.com.gt/icasa/"
+            href="https://www.bpmco.co/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src="img/icasaLogo.png" alt="BPMcos" width="200"></img>
+            <img src="img/bpmco.svg" alt="BPMCo" width="400"></img>
           </a>
         </dir>
       </main>

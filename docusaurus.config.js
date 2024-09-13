@@ -6,10 +6,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Icasa",
+  title: "BPMCo",
   tagline: "Documentación",
-  url: "http://documentacion.bpmco.co/icasa",
-  baseUrl: "/icasa/",
+  url: "http://documentacion.bpmco.co/bpmco",
+  baseUrl: "/bpmco/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -24,8 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            "https//google.com",
+          editUrl: "https://github.com/ikaronauta/documentacion-bpmco/edit/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -40,7 +39,7 @@ const config = {
       navbar: {
         logo: {
           alt: "BPMco",
-          src: "img/icasaLogo.png",
+          src: "img/bpmco.png",
         },
         items: [
           {
@@ -60,8 +59,8 @@ const config = {
       footer: {
         logo: {
           alt: "BPMco",
-          src: "img/bpmco.png",
-          href: "https://www.bpmco.co/es/inicio/",
+          src: "img/footer_bpmco.svg",
+          href: "https://www.bpmco.co/",
           width: 100,
         },
         style: "dark",
